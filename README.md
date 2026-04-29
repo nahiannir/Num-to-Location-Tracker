@@ -1,9 +1,7 @@
-Here’s a clean, professional **README.md** for your phone number location tracker project:
 
-````md id="r7k3pl"
 # 📱 Phone Number Location Tracker
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.14-blue.svg)
 ![Library](https://img.shields.io/badge/Library-phonenumbers-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
